@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "📊",
+    "title": "Live Insights",
+    "description": "Your KPIs, updated by the second."
+  },
+  {
+    "icon": "🤖",
+    "title": "AI Automation",
+    "description": "Automate repetitive tasks and focus on what matters."
+  },
+  {
+    "icon": "🔔",
+    "title": "Smart Alerts",
+    "description": "Get notified when it matters most."
+  },
+  {
+    "icon": "👥",
+    "title": "Team Collaboration",
+    "description": "Share dashboards and collaborate in real-time."
+  }
+]

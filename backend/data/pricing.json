@@ -1,0 +1,17 @@
+[
+  {
+    "tier": "Starter",
+    "price": "₹0",
+    "features": ["1 Dashboard", "Basic Alerts", "Limited Integrations"]
+  },
+  {
+    "tier": "Growth",
+    "price": "₹999",
+    "features": ["5 Dashboards", "Advanced Alerts", "Priority Support", "All Integrations"]
+  },
+  {
+    "tier": "Enterprise",
+    "price": "Custom",
+    "features": ["Unlimited Dashboards", "Dedicated Account Manager", "Custom Integrations", "SLA Guaranteed"]
+  }
+]
